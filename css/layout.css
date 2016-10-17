@@ -28,3 +28,12 @@ img{
 	width:600px;
 	height:375px;
 }
+#imagegallery{
+	list-style: none;
+}
+#imagegallery li{
+	display: inline;
+}
+#imagegallery li a img{
+	border:0;
+}
