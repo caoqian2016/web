@@ -28,6 +28,10 @@ img{
 	width:600px;
 	height:375px;
 }
+.thumbnail{
+	width: 150px;
+	height:90px;
+}
 #imagegallery{
 	list-style: none;
 }
